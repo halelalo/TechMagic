@@ -1,2 +1,2 @@
 # TechMagic
-THe minecraft mod "Technically MAgic"
+The minecraft mod "Technically Magic"
